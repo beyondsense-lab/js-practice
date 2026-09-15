@@ -1,0 +1,11 @@
+{
+  "name": "simple-m3u8-player",
+  "version": "1.0.0",
+  "description": "A fast, lightweight, and modern HLS (.m3u8) video player.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["m3u8", "hls", "player", "video", "streaming"],
+  "license": "MIT"
+}
